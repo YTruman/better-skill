@@ -9,7 +9,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 - 旗舰案例深读五篇公开（skill-creator / doc-coauthoring / frontend-design / mcp-builder / webapp-testing）
 - 打包校验 checkpoint 检查项落入 checklist 物理层
 
-## [1.1.0] — 2026-10-23
+## [1.1.0] — 2026-10-31
 
 First public release.
 

@@ -32,7 +32,7 @@ Three scenes you probably recognize:
 
 1. **Skills ship without ever being examined.** Bloated descriptions, methods inlined into the body, missing examples — chronic diseases. When they flare up, all you feel is "this skill sucks" without being able to name the lesion.
 2. **Triggering is voodoo.** It stays silent when it should fire; it fires when it should stay silent. Almost nobody measures trigger rate — this standard turns description-triggering into a quantified, iteratively optimizable engineering problem.
-3. **"My skill is better than yours" — comparison without a shared yardstick is just an argument.** The 5-dimension rubric (ZSAR / trigger rate / round-trips / token cost / autonomy level) gives comparisons a referee.
+3. **"My skill is better than yours" — comparison without a shared yardstick is just an argument.** The 5-dimension rubric (ZSAR / trigger rate / round-trips / token usage / autonomy level) gives comparisons a referee.
 
 ## Up and running in 30 seconds
 
@@ -93,7 +93,7 @@ SKILL.md                    # router + doctor's constitution (start here)
 references/principles.md    # token economics, freedom matching, cognitive grounding
 references/paradigms.md     # 7 architecture paradigms + selection decision tree
 references/checklist.md     # 4-layer P0/P1/P2 checklists + Not-To-Do red lines + report template
-references/metrics.md       # ZSAR / trigger rate / round-trips / token / autonomy rubrics
+references/metrics.md       # ZSAR / trigger rate / round-trips / token usage / autonomy rubrics
 references/templates.md     # full document templates + Anti-Slop word list
 references/eval-loop.md     # with/without eval, assertion scoring, trigger optimization
 references/provenance.md    # the evidence chain: audits, scores, 5-round evolution
@@ -106,7 +106,7 @@ examples/                   # a perfect audit report, annotated
 
 **Does it work for non-English skills?** Yes — the standard itself is written in Chinese and battle-tested on Chinese skills first; the trigger-optimization method works for any language's descriptions.
 
-**I only have one skill. Worth a checkup?** Yes. A single-skill checkup takes about fifteen minutes, and P0 findings (missing initial protocol, missing examples) are usually fixable on the spot.
+**I only have one skill. Worth a checkup?** Yes. A single-skill checkup takes about fifteen minutes, and findings such as a missing initial protocol (P0) or missing examples (P1) are usually fixable on the spot.
 
 **Does it really guarantee 90 points?** That's the design goal, not a promise: independent of base model and harness, hold packaging quality at a 90-point waterline. Don't take our word — run your own re-test and cross-comparison (method in `references/eval-loop.md`).
 

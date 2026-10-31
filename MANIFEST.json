@@ -25,7 +25,7 @@
       "bytes": 41
     },
     "CHANGELOG.md": {
-      "sha256": "999c7351b4d44eeb89548f81586a0c9f05b03da48b73a870084bea862c2aa2ad",
+      "sha256": "64f8cfd0f3d397a57c3406e12a6cc87c9490b599b6f413b859fa65d10ed07e59",
       "bytes": 1476,
       "lines": 31
     },
@@ -35,27 +35,27 @@
       "lines": 19
     },
     "LICENSE": {
-      "sha256": "9bfb0ec36e1dbd7b4b9a0f259110ea4ce993dca143932cfcce660547f9bb3d96",
-      "bytes": 1076
+      "sha256": "4ea7f88a00315b753554071654d67704ac240f04df37c1a857967a3539b11d7d",
+      "bytes": 1072
     },
     "README.en.md": {
-      "sha256": "3fdc2b42e54a4fa5a2ed14729698c2b74a39f9fa2e825f72c82fbaa2ccd49888",
-      "bytes": 8975,
+      "sha256": "c289d72a920f6212f17e4511b0bf0bdd605088d7e9dbde9f98c5f971161fda3a",
+      "bytes": 9029,
       "lines": 127
     },
     "README.md": {
-      "sha256": "db7cdab66d5d3deca0d9960903e264f880d10a2ceb815ef2d82e13d71ab7daa6",
-      "bytes": 8152,
+      "sha256": "c6767170b5bdee707e0f3cb0baf7aa119f8af9cc58f120f7519fd201f2ecdcd7",
+      "bytes": 8191,
       "lines": 127
     },
     "SKILL.md": {
-      "sha256": "5699dca62b93e179e787b917e1313f09f5b86eb61ce07e7a06889db6ddb7cbb5",
-      "bytes": 6796,
-      "lines": 74
+      "sha256": "6ed6822a87f41a2f89b02da00cbb62c36374007f72096c6eefc66554af99e4cb",
+      "bytes": 9190,
+      "lines": 82
     },
     "assets/architecture.html": {
-      "sha256": "180073ae7918f8a4fec82047bafbc101eae7403c7234ec3e169b646a2ea0c55e",
-      "bytes": 21743,
+      "sha256": "d4457aee0039692e827c4fdcfedc84b8b8d5d317738089c307cff387bb54368e",
+      "bytes": 21756,
       "lines": 327
     },
     "assets/architecture.png": {
@@ -80,39 +80,39 @@
       "lines": 37
     },
     "references/checklist.md": {
-      "sha256": "8049bb3783decab62a93b2ed7782c1b1e059f50baf301d6f5ea98bf60ccbdf9d",
-      "bytes": 6097,
-      "lines": 102
+      "sha256": "c9bf139935d11eb8035b937f93c31bee88f5a16027b3a44383322d2a3e2b055f",
+      "bytes": 10163,
+      "lines": 143
     },
     "references/eval-loop.md": {
-      "sha256": "5cb157c0ae322920374f075a631cea4b586beac1b5122ef46640c7909250bfcf",
-      "bytes": 4011,
-      "lines": 43
+      "sha256": "17d0b3f6cb17590b4cf3e867c6994c89ede6a184bb8a34274224103f5c9f3ff1",
+      "bytes": 5634,
+      "lines": 48
     },
     "references/metrics.md": {
-      "sha256": "3f066ef5fca2fa453eec7b91b36fdb276ab2e36a91d7f9a109c3a5c6487ba9e5",
-      "bytes": 3363,
-      "lines": 61
+      "sha256": "5d1e4669946093f73a24b99de3e9f6bc3ccea1779771961aa44b018c74cf337f",
+      "bytes": 5518,
+      "lines": 76
     },
     "references/paradigms.md": {
-      "sha256": "ca6c9225e42fe7096921a208df93308717aeab2f3700f0a64aa1646b5551381e",
-      "bytes": 3442,
-      "lines": 42
+      "sha256": "927d06d04945da92c81ce4e754820fe77f6f97d9d08b06fc1ceed81feb8d72a2",
+      "bytes": 4481,
+      "lines": 44
     },
     "references/principles.md": {
-      "sha256": "6c62d7489f47a96a6606e6ecd4297b411f1c1f70dff347f6fc2b74114292343e",
-      "bytes": 3107,
-      "lines": 49
+      "sha256": "e2a29a0221e3d733983458c3c6b6bf8c1b59afef81a1e5dc42246820aab8bb92",
+      "bytes": 4207,
+      "lines": 62
     },
     "references/provenance.md": {
-      "sha256": "dc99004d6373b1cb8e4f0589321daa2b94ab8be1871e0e7c2f421a6a57df7181",
-      "bytes": 6591,
-      "lines": 79
+      "sha256": "37850d357bb51552a9dbe24daa0c676b44247966820cf34054b448af94a8473e",
+      "bytes": 6037,
+      "lines": 96
     },
     "references/templates.md": {
-      "sha256": "120f2d66a44714fc50e2dc488761c1b546f95804f9b2475b728ae32e8055540d",
-      "bytes": 4503,
-      "lines": 90
+      "sha256": "c24046d832c6727f5b390c21ca13aa8509860f5f2752634863e7035d0916f3ff",
+      "bytes": 8226,
+      "lines": 129
     }
   }
 }
