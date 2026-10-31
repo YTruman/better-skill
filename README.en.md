@@ -120,7 +120,7 @@ Selection rule: **effective enough, scarce enough, best-practice enough** — th
 
 ## Author
 
-**YTruman** — CEO @ Yitang, a research lab disguised as an education company. Y = Y-type entrepreneur, the philosophy I've taught for 9 years.
+**YTruman** — CEO @ Yitang, a research lab disguised as an education company. Y = Y-type entrepreneur. I've spent 9 years researching the scientific principles of business.
 
 ## License
 
