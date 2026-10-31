@@ -67,17 +67,17 @@
       "bytes": 1068525
     },
     "assets/checkup-findings.png": {
-      "sha256": "5e76bd12c7d9bb2ac234c5abed44e0c79efd7e8a465cea48d147e90541ac08eb",
-      "bytes": 143100
+      "sha256": "3c2b17db791c78b9bb1cbc454a3331f771aa054eb9b612d0dacede6a059cebed",
+      "bytes": 484232
     },
     "assets/scoring-chart.png": {
       "sha256": "b68c9ece7abe9a690fdc8cd21d26aab9ee74ada93227bdedd18597b2181c441c",
       "bytes": 110143
     },
     "examples/perfect-audit-report.md": {
-      "sha256": "3b23d8b0bca4282d430b70469489f53ee1242380b09fa9ab89b2be21b2978700",
-      "bytes": 2111,
-      "lines": 37
+      "sha256": "faee15b98527732dca08dec6bae588be1e59064c9ea03632cf955d577dd770a8",
+      "bytes": 4911,
+      "lines": 65
     },
     "references/checklist.md": {
       "sha256": "c9bf139935d11eb8035b937f93c31bee88f5a16027b3a44383322d2a3e2b055f",
