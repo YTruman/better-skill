@@ -114,9 +114,9 @@ examples/                   # a perfect audit report, annotated
 
 ## The Better family & roadmap
 
-This repo is one position on an org chart: [truman-skills](https://github.com/YTruman/truman-skills) — *the job-description sheet of an AI business-management team* (goes public together with this repo). First positions: `better-pk` (controlled-comparison discipline), `deep-debug` (scientific debugging). One new position every week.
+This repository is one role on an organizational chart: truman-skills—a job-description manual for an AI business management team (going public on the same day as this repository).
 
-Selection rule: **effective enough, scarce enough, best-practice enough** — the star count is the shipping speed.
+Our three selection criteria: effective enough, scarce enough, and best-practice enough—the Star count sets the pace of open-sourcing.
 
 ## Author
 
